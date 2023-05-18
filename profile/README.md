@@ -29,15 +29,15 @@ Each repository has its own README and contribution guidelines. Please ensure yo
 ## Team
   * LIST TEAM HERE WITH GITHUB AND LINKEDIN LINKS
 
-## Contributing
-
-We are always looking for talented developers who are passionate about building great software and improving the user experience. If you'd like to contribute, please check out our `CONTRIBUTING.md` file in the respective repositories.
-
 ## Code of Conduct
 
 * DO WE WANT THIS?
 
 ## Licensing
+
+* DO WE WANT THIS?
+
+## Contributing
 
 * DO WE WANT THIS?
 
