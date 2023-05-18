@@ -20,8 +20,8 @@ Key features include:
 
 Our repositories reflect different aspects of the Lynk Up application:
 
-1. **[LynkUp-Web](/lynk-up-client)**: Contains the web application's source code.
-2. **[LynkUp-Backend](/lynk-up-server)**: Contains the backend services code, ensuring our apps are running smoothly.
+1. **[LynkUp-Web]((https://github.com/LYNK-UP-APP/lynk-up-client)**: Contains the web application's source code.
+2. **[LynkUp-Backend]((https://github.com/LYNK-UP-APP/lynk-up-server))**: Contains the backend services code, ensuring our apps are running smoothly.
 
 
 Each repository has its own README and contribution guidelines. Please ensure you read through them before making any contributions.
