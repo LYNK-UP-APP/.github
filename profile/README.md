@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Lynk Up Organization
+# Lynk Up Organization (ROUGH DRAFT)
 
 ## Introduction
 
