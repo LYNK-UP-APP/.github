@@ -10,6 +10,8 @@ Welcome to the Lynk Up GitHub organization! Lynk Up is a social event management
 
 Lynk Up is a platform for creating, discovering, and managing events. From small gatherings, meetings, to large parties, Lynk Up provides an intuitive and user-friendly platform to manage them all. It encourages social interaction by allowing users to form friend groups and seamlessly organize events with them.
 
+[Visit our site here!](https://lynk-up-client.vercel.app/dashboard)
+
 Key features include:
 - **Event Creation:** Create events, set venues, dates, and times.
 - **Friend Groups:** Form friend groups, and manage events within these groups.
