@@ -1,4 +1,5 @@
 # Lynk Up
+![lynk_up](https://github.com/LYNK-UP-APP/.github/assets/116698937/dc0f4910-32f9-4e3a-a784-4ba67c4497cc)
 
 ## Introduction
 
