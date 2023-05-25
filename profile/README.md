@@ -37,97 +37,18 @@ Our repositories reflect different aspects of the Lynk Up application:
 Each repository has its own README and contribution guidelines. Please ensure you read through them before making any contributions.
 
 ## Team
- <table>
-  <tr>
-    <th>Andra Helton</th>
-    <th>Antonio King Hunt</th>
-    <th>Dawson Timmons</th>
-    <th>Gus Deribeaux</th>
-    <th>Harrison Ryan</th>
-    <th>Joseph Fogiato</th>
-    <th>Trevor Fitzgerald</th>
-    <th>William Lampke</th>
-  </tr>
-  
-<tr>
-  <td><img src="https://avatars.githubusercontent.com/u/116662742?v=4" width="125" height="125"></td>
-  <td><img src="https://avatars.githubusercontent.com/u/89714398?v=4" width="125" height="125"></td>
-  <td><img src="https://avatars.githubusercontent.com/u/117066950?v=4" width="125" height="125"></td>
-  <td><img src="https://avatars.githubusercontent.com/u/108699203?v=4" width="125" height="125"></td>
-  <td><img src="https://avatars.githubusercontent.com/u/116698937?v=4" width="125" height="125"></td>
-  <td><img src="https://avatars.githubusercontent.com/u/57634618?v=4" width="125" height="125"></td>
-  <td><img src="https://avatars.githubusercontent.com/u/57536985?v=4" width="125" height="125"></td>
-  <td><img src="https://avatars.githubusercontent.com/u/109244868?v=4" width="125" height="125"></td>
-</tr>
 
+| **Frontend Team**  |       |       |
+| :------------: |:-----:| :---: |
+| Gus Deribeaux  | Joseph Fogiato | Trevor Fitzgerald |
+| <img src="https://avatars.githubusercontent.com/u/108699203?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/57634618?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/57536985?v=4" width="100" height="100"> |
+| [Github](https://github.com/Gderibeaux)<br>[LinkedIn](https://www.linkedin.com/in/gus-deribeaux-562a511aa/) | [Github](https://github.com/jfogiato)<br>[LinkedIn](https://www.linkedin.com/in/joseph-fogiato/) | [Github](https://github.com/trevorfitz0)<br>[LinkedIn](https://www.linkedin.com/in/trevorfitz0/) |
 
-  <tr>
-    <td>
-      <a href="https://github.com/ALHelton" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-        </a><br>
-      <a href="https://www.linkedin.com/in/andrahelton/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-        </a>
-    </td>
-        <td>
-       <a href="https://github.com/4D-Coder" rel="nofollow noreferrer">
-            <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-      </a><br>
-        <a href="https://www.linkedin.com/in/antoniokinghunt-4d-coder/" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-      </a>
-    </td>
-        <td>
-       <a href="https://github.com/DMTimmons1" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-      </a><br>
-        <a href="https://www.linkedin.com/in/dawson-timmons/" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-      </a>
-    </td>
-        <td>
-      <a href="https://github.com/Gderibeaux" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-        </a><br>
-         <a href="https://www.linkedin.com/in/gus-deribeaux-562a511aa/" rel="nofollow noreferrer">
-       <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-        </a>
-    </td>
-        <td>
-       <a href="https://github.com/hwryan12" rel="nofollow noreferrer">
-            <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-      </a><br>
-        <a href="https://www.linkedin.com/in/harrison-ryan-2b987725a/" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-      </a>
-    </td>
-        <td>
-       <a href="https://github.com/jfogiato" rel="nofollow noreferrer">
-            <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-      </a><br>
-        <a href="https://www.linkedin.com/in/joseph-fogiato/" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-      </a>
-    </td>
-         <td>
-       <a href="https://github.com/trevorfitz0" rel="nofollow noreferrer">
-            <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-      </a><br>
-        <a href="https://www.linkedin.com/in/trevorfitz0/" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-      </a>
-    </td>
-        <td>
-       <a href="https://github.com/WilliamLampke" rel="nofollow noreferrer">
-            <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-      </a><br>
-        <a href="https://www.linkedin.com/in/william-lampke-b4a5b5250/" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-      </a>
-    </td>
-  </tr>   
-</table>
+| **Backend Team** |       |       |       |       |
+| :----------: | :---: | :---: | :---: | :---: |
+| Andra Helton | Antonio King Hunt | Dawson Timmons | Harrison Ryan | William Lampke |
+| <img src="https://avatars.githubusercontent.com/u/116662742?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/89714398?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/117066950?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/116698937?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/109244868?v=4" width="100" height="100"> |
+| [Github](https://github.com/ALHelton)<br>[LinkedIn](https://www.linkedin.com/in/andrahelton/) | [Github](https://github.com/4D-Coder)<br>[LinkedIn](https://www.linkedin.com/in/antoniokinghunt-4d-coder/) | [Github](https://github.com/DMTimmons1)<br>[LinkedIn](https://www.linkedin.com/in/dawson-timmons/) | [Github](https://github.com/hwryan12)<br>[LinkedIn](https://www.linkedin.com/in/harrison-ryan-2b987725a/) | [Github](https://github.com/WilliamLampke)<br>[LinkedIn](https://www.linkedin.com/in/william-lampke-b4a5b5250/) |
 
 ## Code of Conduct
 
