@@ -50,14 +50,14 @@ Each repository has its own README and contribution guidelines. Please ensure yo
   </tr>
   
 <tr>
-  <td><img src="https://avatars.githubusercontent.com/u/116662742?v=4" width="135" height="135"></td>(andra)
-  <td><img src="https://avatars.githubusercontent.com/u/89714398?v=4" width="135" height="135"></td>(antonio)
-  <td><img src="https://avatars.githubusercontent.com/u/117066950?v=4" width="135" height="135"></td>(dawson)
-  <td><img src="https://avatars.githubusercontent.com/u/108699203?v=4" width="135" height="135"></td>(gus)
-  <td><img src="https://avatars.githubusercontent.com/u/116698937?v=4" width="135" height="135"></td>(harrison)
-  <td><img src="https://avatars.githubusercontent.com/u/57634618?v=4" width="135" height="135"></td>(joe)
-  <td><img src="https://avatars.githubusercontent.com/u/57536985?v=4" width="135" height="135"></td>(trevor)
-  <td><img src="https://avatars.githubusercontent.com/u/109244868?v=4" width="135" height="135"></td>(william)
+  <td><img src="https://avatars.githubusercontent.com/u/116662742?v=4" width="125" height="125"></td>
+  <td><img src="https://avatars.githubusercontent.com/u/89714398?v=4" width="125" height="125"></td>
+  <td><img src="https://avatars.githubusercontent.com/u/117066950?v=4" width="125" height="125"></td>
+  <td><img src="https://avatars.githubusercontent.com/u/108699203?v=4" width="125" height="125"></td>
+  <td><img src="https://avatars.githubusercontent.com/u/116698937?v=4" width="125" height="125"></td>
+  <td><img src="https://avatars.githubusercontent.com/u/57634618?v=4" width="125" height="125"></td>
+  <td><img src="https://avatars.githubusercontent.com/u/57536985?v=4" width="125" height="125"></td>
+  <td><img src="https://avatars.githubusercontent.com/u/109244868?v=4" width="125" height="125"></td>
 </tr>
 
 
